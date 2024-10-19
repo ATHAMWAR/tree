@@ -1,0 +1,26 @@
+ul{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    background-color: black;
+    padding: 8px;
+    list-style: none;
+}
+li{
+    color: aliceblue;
+}
+img{
+    border-radius: 20px;
+    width: 40%;
+    height: 40%;
+    position: relative;
+    float: right;
+    
+}
+h1{
+   position: relative;
+   text-align: center;
+   top: 20px;
+ margin-left: 20px;
+   font-size: 30px;
+}
